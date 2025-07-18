@@ -42,7 +42,7 @@
 
 ### 1. Клонируй проект
 ```bash
-git clone https://github.com/YourUsername/TicketLight.git
+git clone https://github.com/TemhaN/TicketLight.git
 cd TicketLight
 ````
 
